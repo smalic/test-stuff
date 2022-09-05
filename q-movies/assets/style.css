@@ -1,0 +1,26 @@
+.q-agency-movie {
+    max-width: 900px;
+    width: 100%;
+    margin: 30px auto 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    line-height: 26px;
+    color: #333;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.q-agency-movie__title {
+    flex: 0 1 30%;
+}
+
+.q-agency-movie__title h1 {
+    font-size: 60px;
+    line-height: 1.1;
+    margin-top: 10px;
+}
+
+.q-agency-movie__content {
+    flex: 0 1 60%;
+}
